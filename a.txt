@@ -1,1 +1,2 @@
 in Local a
+adding line before pulling from Remote Master
