@@ -1,2 +1,3 @@
 in Local a
 adding line before pulling from Remote Master
+modified in branch new-branch
